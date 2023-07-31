@@ -76,7 +76,7 @@ const Navbar = () => {
               <Link href='/#projects'>Projects</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='/OBINNA FRANKLIN DURU - Curriculum Vitae.pdf'
+              <Link href='	https://drive.google.com/file/d/1UVxSFU3o6kS5RsufMS2EC7EXF8zpLwdN/view?usp=sharing'
               target='_blank'
               rel='noreferrer'
               >
@@ -158,7 +158,7 @@ const Navbar = () => {
                   Projects
                 </li>
               </Link>
-              <Link href='/OBINNA FRANKLIN DURU - Curriculum Vitae.pdf'
+              <Link href='https://drive.google.com/file/d/1D0t-oYDZBpr1MJOaXnTVqEiu_rkDI2S6/view?usp=sharing'
                 target='_blank'
                 rel='noreferrer'
               >
@@ -179,7 +179,7 @@ const Navbar = () => {
               </p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <a
-                  href='https://www.linkedin.com/in/obinna-duru-11297b225/'
+                  href='http://www.linkedin.com/in/ashutosh-mishra-3382951a7/'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -188,7 +188,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href='https://github.com/obinnafranklinduru'
+                  href='https://github.com/ashuxshimra'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -204,7 +204,7 @@ const Navbar = () => {
                     <AiOutlineMail />
                   </div>
                 </Link>
-                <Link href='/OBINNA FRANKLIN DURU - Curriculum Vitae.pdf'
+                <Link href='	https://drive.google.com/file/d/1UVxSFU3o6kS5RsufMS2EC7EXF8zpLwdN/view?usp=sharing'
                   target='_blank'
                   rel='noreferrer'
                 >
